@@ -4,4 +4,4 @@
 <br>
 # git repository #
 <br>
-# This is my second Web-Development project with HTML, CSS & JavaScript #
+# This is a "Qr-Code-Generator" Web-Development project using HTML, CSS & JavaScript #
