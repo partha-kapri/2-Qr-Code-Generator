@@ -2,6 +2,6 @@
 
 # Author - Partha Kapri
 <br>
-# git repository #
+# Git Repository No. 2 #
 <br>
 # This is a "Qr-Code-Generator" Web-Development project using HTML, CSS & JavaScript #
